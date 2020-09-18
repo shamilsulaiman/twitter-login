@@ -1,1 +1,1 @@
-https://github.com/shamilsulaiman/twitter-login.git
+https://shamilsulaiman.github.io/twitter-login/
